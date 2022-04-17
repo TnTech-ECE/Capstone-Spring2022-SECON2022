@@ -2,7 +2,7 @@ File: 					SECON_Arduino
 
 Author(s): 				Chase Garner, Sawyer Hall, Daniel Summers
 
-Target Hardware: 		Arduino MEGA 2560
+Target Hardware: 		Arduino MEGA 2560 with Adafruit Servo Shield
 
 Purpose: 				This software is responsible for the motor control and sensor readings for Tennessee Tech's SoutheastCon 2022 Robot. 
 						This serves as the main gameplay control for the robot.
@@ -10,7 +10,7 @@ Purpose: 				This software is responsible for the motor control and sensor readi
 Software Dependencies:	Ardunio IDE
 
 External Connections:	This software is designed to be ran in conjunction with a Raspberry Pi (see SECON2022/Software/RaspberryPi for software) via UART.
-						Reference SECON2022/Documentation/ for all external hardware connections. 
+						Reference SECON2022/Documentation/DesignDocuments for all external hardware connections. 
 						
 Installation:			Connect the Arduino MEGA 2560 to a computer via USB. Using the Arduino IDE, flash the given code to the Ardunio.
 
