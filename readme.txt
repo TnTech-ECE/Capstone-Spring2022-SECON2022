@@ -31,5 +31,4 @@ Reports
 Software
  •Raspberry Pi
  •SECON_Arduino
-Readme
 
