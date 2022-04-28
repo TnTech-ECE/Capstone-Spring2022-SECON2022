@@ -19,6 +19,17 @@ was $2000, and the final BOM indicated a final budget of $2,023.49.
 ## Video
 
 ## Pictures
+### Front of Robot
+<img src="http://https://github.com/dbsummers42/SECON2022/blob/main/Documentation/Photos/Robot_Front.jpg" width="200" height="200" />
+### Right Side of Robot
+<img src="http://https://github.com/dbsummers42/SECON2022/blob/main/Documentation/Photos/Robot_Right.jpg" width="200" height="200" />
+### Left Side of Robot
+<img src="http://https://github.com/dbsummers42/SECON2022/blob/main/Documentation/Photos/Robot_Left.jpg" width="200" height="200" />
+### Back of Robot
+<img src="http://https://github.com/dbsummers42/SECON2022/blob/main/Documentation/Photos/Robot_Back.jpg" width="200" height="200" />
+### Top View of Robot
+<img src="http://https://github.com/dbsummers42/SECON2022/blob/main/Documentation/Photos/Robot_Top.jpg" width="200" height="200" />
+### Interior of Lower Chassis
 
 ## About Us
 As mentioned in the summary, this team consisted of two Electrical Engineers and two Computer Engineers. The two Electrical Engineers are 
