@@ -19,9 +19,7 @@ was $2000, and the final BOM indicated a final budget of $2,023.49.
 ## Video
 
 <figure class="video_container">
-  
-  <iframe src="https://youtu.be/yNQZh_yY1AQ" frameborder="0" allowfullscreen="true"> </iframe>
-  
+  <iframe src="https://youtu.be/yNQZh_yY1AQ"> </iframe>
 </figure>
 
 ## Pictures
