@@ -61,6 +61,7 @@ specifications provided by the competition organizers.
   <li>Project Poster</li>
   <li>Photos</li>
 </ul>
+
 ### Reports
 <ul>
   <li>Project Proposal</li>
@@ -68,6 +69,7 @@ specifications provided by the competition organizers.
   <li>Design Phase 2</li>
   <li>Final Report</li>
 </ul>
+
 ### Software
 <ul>
   <li>Raspberry Pi</li>
