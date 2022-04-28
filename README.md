@@ -49,22 +49,27 @@ specifications provided by the competition organizers.
 
 ## Repo Index
 ### Project Documentation
- •Design Documents
- 
-  o3D Models
-  
-  oPower
-  
-•Bill of Materials
-•Datasheet
-•Project Poster
-•Photos
+<ul>
+  <li>Design Documents
+    <ul>
+      <li>3D Models</li>
+      <li>Power</li>
+    </ul>
+  </li>
+  <li>Bill of Materials</li>
+  <li>Datasheet</li>
+  <li>Project Poster</li>
+  <li>Photos</li>
+</ul>
 ### Reports
- •Project Proposal
- •Design Phase 1
- •Design Phase 2
- •Final Report
+<ul>
+  <li>Project Proposal</li>
+  <li>Design Phase 1</li>
+  <li>Design Phase 2</li>
+  <li>Final Report</li>
+</ul>
 ### Software
- •Raspberry Pi
- 
- •SECON_Arduino
+<ul>
+  <li>Raspberry Pi</li>
+  <li>SECON_Arduino</li>
+</ul>
