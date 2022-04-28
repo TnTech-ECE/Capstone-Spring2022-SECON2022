@@ -45,6 +45,9 @@ was $2000, and the final BOM indicated a final budget of $2,023.49.
 
 ### Interior of Lower Chassis
 
+<img src="./Documentation/Photos/Robot_InnerChassis.jpg" width="600"/>
+
+
 ## About Us
 As mentioned in the summary, this team consisted of two Electrical Engineers and two Computer Engineers. The two Electrical Engineers are 
 Chase Garner and Sawyer Hall, and the two Computer Engineers are Daniel Summers and Lexi Sheeler. The faculty member that oversaw the 
