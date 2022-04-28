@@ -18,6 +18,12 @@ was $2000, and the final BOM indicated a final budget of $2,023.49.
 
 ## Video
 
+<video width="600" controls>
+  <source src="./Documentation/Photos/Video1.mp4" type="video/mp4">
+  Video Not Supported.
+</video>
+
+
 ## Pictures
 ### Front of Robot
 
