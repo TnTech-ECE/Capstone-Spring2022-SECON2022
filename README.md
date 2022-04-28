@@ -20,15 +20,25 @@ was $2000, and the final BOM indicated a final budget of $2,023.49.
 
 ## Pictures
 ### Front of Robot
-[<img src="./Documentation/Photos/Robot_Front.jpg" width="600"/>]
+
+<img src="./Documentation/Photos/Robot_Front.jpg" width="600"/>
+
 ### Right Side of Robot
-[<img src="./Documentation/Photos/Robot_Right.jpg" width="600"/>]
+
+<img src="./Documentation/Photos/Robot_Right.jpg" width="600"/>
+
 ### Left Side of Robot
-[<img src="./Documentation/Photos/Robot_Left.jpg" width="600"/>]
+
+<img src="./Documentation/Photos/Robot_Left.jpg" width="600"/>
+
 ### Back of Robot
-[<img src="./Documentation/Photos/Robot_Back.jpg" width="600"/>]
+
+<img src="./Documentation/Photos/Robot_Back.jpg" width="600"/>
+
 ### Top View of Robot
-[<img src="./Documentation/Photos/Robot_Top.jpg" width="600"/>]
+
+<img src="./Documentation/Photos/Robot_Top.jpg" width="600"/>
+
 ### Interior of Lower Chassis
 
 ## About Us
